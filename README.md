@@ -11,6 +11,7 @@ It does not include the classes that I've done where we only had small projects 
 The directory is composed of the following projects : 
 
 - `AWS` : Cloud computing class where we played with `aws`. 
+- `Computer Vision` : the project I've done related to computer vision.
 - `hackathon` : The hackathons I've either participated or organized.
 - `NLP` : The project and internship I've done related to NLP.
 - `reinforcement_learning` : The project and internship I've done related to reinforcement learning. 
